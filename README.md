@@ -1,13 +1,11 @@
 # 🙌 Please credit Mohammad Ahsan Hummayoun when using, sharing, or adapting this work
 
----
 
 # 🔐 Secure Enterprise Network Design – Ransomware Mitigation (WannaCry Case Study)
 
 ## 📌 Overview
 This project presents a secure enterprise network architecture designed to mitigate ransomware attacks, using **WannaCry** as a case study. The network was built and tested in **Cisco Packet Tracer**, focusing on reducing attack surface and preventing lateral movement in a typical mid-sized organization.
 
----
 
 ## 🎯 Objectives
 - Analyze WannaCry using the **Cyber Kill Chain** and **MITRE ATT&CK**
@@ -15,7 +13,6 @@ This project presents a secure enterprise network architecture designed to mitig
 - Design and implement a **segmented, secure network**  
 - Apply **defense-in-depth** principles to stop ransomware propagation  
 
----
 
 ## ⚙️ Key Features
 - **Network Segmentation:** Multi-VLAN design (department-based isolation)  
@@ -27,7 +24,6 @@ This project presents a secure enterprise network architecture designed to mitig
 - **Resilience:** Backup FTP server for data recovery  
 - **Attack Mitigation:** DNS Kill-Switch to disrupt WannaCry execution  
 
----
 
 ## 🛡️ Security Improvements
 The redesigned network eliminates flat topology risks by:
@@ -36,7 +32,6 @@ The redesigned network eliminates flat topology risks by:
 - Introducing **segmentation + traffic control**
 - Enabling early-stage disruption of the attack lifecycle  
 
----
 
 ## 🧰 Technologies Used
 - Cisco Packet Tracer  
@@ -46,7 +41,6 @@ The redesigned network eliminates flat topology risks by:
 - DHCP & DHCP Snooping  
 - Port Security  
 
----
 
 ## 🚀 Key Takeaway
 Even simple network-level controls like segmentation and filtering can **break the cyber kill chain early**, preventing large-scale ransomware impact.
