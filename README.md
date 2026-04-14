@@ -46,7 +46,6 @@ The redesigned network eliminates flat topology risks by:
 - DHCP & DHCP Snooping  
 - Port Security  
 
-
 ---
 
 ## 🚀 Key Takeaway
