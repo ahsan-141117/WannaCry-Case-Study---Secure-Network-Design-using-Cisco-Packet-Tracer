@@ -47,5 +47,3 @@ The redesigned network eliminates flat topology risks by:
 
 ## 🚀 Key Takeaway
 Even simple network-level controls like segmentation and filtering can **break the cyber kill chain early**, preventing large-scale ransomware impact.
-
-## 📁 Project Structure
