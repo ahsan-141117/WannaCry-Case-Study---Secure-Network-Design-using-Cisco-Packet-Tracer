@@ -1,3 +1,7 @@
+# 🙌 Please credit Mohammad Ahsan Hummayoun when using, sharing, or adapting this work
+
+---
+
 # 🔐 Secure Enterprise Network Design – Ransomware Mitigation (WannaCry Case Study)
 
 ## 📌 Overview
